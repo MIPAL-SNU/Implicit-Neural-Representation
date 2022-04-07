@@ -25,6 +25,8 @@ GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis | NeurIPS | 2020 |
 
 GIRAFFE: Representing Scenes as Compositional Generative Neural Feature Fields | CVPR | 2021 | [[paper]](http://www.cvlibs.net/publications/Niemeyer2021CVPR.pdf) | [[code]](https://github.com/autonomousvision/giraffe)
 
+### Sharp rendering from blurry image
+Deblur-NeRF: Neural Radiance Fields from Blurry Images | CVPR | 2022 | [[Project]](https://limacv.github.io/deblurnerf/) | [[Paper]](https://limacv.github.io/deblurnerf/pdf/CVPR2022_DeblurNeRF.pdf) | [[code]](https://github.com/limacv/Deblur-NeRF)
 
 ## Visual Representation
 ### Super-Resolution
