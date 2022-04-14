@@ -19,6 +19,8 @@ RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inpu
 
 Point-NeRF: Point-based Neural Radiance Fields | CVPR | 2022 | [[paper]](https://arxiv.org/pdf/2201.08845.pdf) | [[code]](https://github.com/Xharlie/pointnerf)
 
+InfoNeRF: Ray Entropy Minimization for Few-Shot Neural Volume Rendering | CVPR | 2022 | [[paper]](https://arxiv.org/pdf/2112.15399.pdf) | [[code]](https://github.com/mjmjeong/InfoNeRF)
+
 ### Fast Inference
 NeX: Real-time View Synthesis with Neural Basis Expansion | CVPR | 2021 | [[paper]](https://arxiv.org/abs/2103.05606) | [[code]](https://github.com/nex-mpi/nex-code/)
 
