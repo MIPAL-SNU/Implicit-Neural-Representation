@@ -11,9 +11,13 @@ Mip-NeRF: A Multiscale Representation for Anti-Aliasing Neural Radiance Fields |
 ### Fast Training (Generalizable NeRF)
 pixelNeRF: Neural Radiance Fields from One or Few Images | CVPR | 2021 | [[paper]](https://arxiv.org/abs/2012.02190) | [[code]](https://github.com/sxyu/pixel-nerf)
 
+IBRNet: Learning Multi-View Image-Based Rendering | CVPR | 2021 | [[paper]](https://arxiv.org/pdf/2102.13090.pdf) | [[code]](https://github.com/googleinterns/IBRNet)
+
 Putting NeRF on a Diet: Semantically Consistent Few-Shot View Synthesis | ICCV | 2021 | [[paper]](https://arxiv.org/abs/2104.00677) | [[code]](https://www.ajayj.com/dietnerf)
 
 RegNeRF: Regularizing Neural Radiance Fields for View Synthesis from Sparse Inputs | CVPR | 2022 | [[paper]](https://arxiv.org/abs/2112.00724) | [[code]](https://github.com/google-research/google-research/tree/master/regnerf)
+
+Point-NeRF: Point-based Neural Radiance Fields | CVPR | 2022 | [[paper]](https://arxiv.org/pdf/2201.08845.pdf) | [[code]](https://github.com/Xharlie/pointnerf)
 
 ### Fast Inference
 NeX: Real-time View Synthesis with Neural Basis Expansion | CVPR | 2021 | [[paper]](https://arxiv.org/abs/2103.05606) | [[code]](https://github.com/nex-mpi/nex-code/)
